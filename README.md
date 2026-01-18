@@ -44,4 +44,7 @@ Follow the steps:
 * 3D printed devices (Joystick Top, Joystick cap, Top Cover, Side Knee holder, Side Knee Button holder)
 
 ## User Documentation
+* Presentation
+* User Manual
+* CAD files
 
