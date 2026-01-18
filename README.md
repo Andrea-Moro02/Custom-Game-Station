@@ -46,5 +46,5 @@ Follow the steps:
 ## User Documentation
 * Presentation
 * User Manual
-* [CAD files](CAD Files)
+* [CAD files](./CAD Files)
 
