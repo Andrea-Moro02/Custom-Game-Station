@@ -5,7 +5,8 @@ A Custom Game Station designed for specifically needs of our co-designer. It all
 ## Product overview
 This solution utilizes 1 Puck.js microcontroller which could be easily connected wirelessly to a PC through web Bluwtooth. In addition 2 switch buttons and custom 3D printed support are part of this project.
 
-![Game-Station](/Photos/IMG_3863.HEIC)
+![Game-Station](/Photos/IMG_3863.png)
+![Game-Station-Bottom](/Photos/IMG_3863.png)
 
 ## Key Features
 Wheelchair Joystick:
